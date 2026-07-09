@@ -1430,6 +1430,12 @@
 # MoSimulator https://store.steampowered.com/app/4398690/MoSimulator/
 { "name": "MoSimulator.exe", "type": "Game" }
 
+# Moss VR https://store.steampowered.com/app/846470/Moss_VR/
+{ "name": "Moss-Win64-Shipping.exe", "type": "Game" }
+
+# Moss 2 VR https://store.steampowered.com/app/2059670/Moss_II_VR/
+{ "name": "Moss2-Win64-Shipping.exe", "type": "Game" }
+
 # Motel Manager Simulator https://store.steampowered.com/app/2594540/Motel_Manager_Simulator/
 { "name": "MotelSim.exe", "type": "BG_CPUIO" }
 { "name": "MotelSim-Win64-Shipping.exe", "type": "Game" }
